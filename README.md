@@ -28,8 +28,15 @@
 
 **채팅** - 사용자간 대화가능       
 
+
+
 ![image](https://github.com/moonwg09/spring-Project/assets/103355252/0ce19a66-7a7f-46d4-bfec-4c679ca14382)  ![image](https://github.com/moonwg09/spring-Project/assets/103355252/3af3edd2-13a3-44a8-8261-bf98957c85e2)
 
 
 
 ![image](https://github.com/Hyedding/Market-Project/assets/155518059/f400e190-212f-4e82-aaad-3cbe000e85c5)
+
+
+# 데이터베이스
+
+![image](https://github.com/Hyedding/Market-Project/assets/155518059/202157c7-4b5a-4f4a-840f-59f8244f8b77)
